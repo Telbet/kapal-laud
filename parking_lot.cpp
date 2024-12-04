@@ -1,5 +1,6 @@
 /* nanti klu mau buat update sma kod ingpo2 sna grup
 anjai lolouman ni bos */
+/*canggih oooo*/
 
 #include <iostream>
 #include <iomanip>
